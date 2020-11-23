@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/384035188/Retrofit_Advance_Tutorial_Get_Request.iml" filepath="$PROJECT_DIR$/.idea/modules/384035188/Retrofit_Advance_Tutorial_Get_Request.iml" group="Retrofit_Advance_Tutorial_Get_Request" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Retrofit Advance Tutorial Get Request/app" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListViewFilteringAndSearchView</string>
+
+    <string-array name="country_name">
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>Mexico</item>
+        <item>Bangladesh</item>
+        <item>America</item>
+        <item>India</item>
+        <item>Russia</item>
+        <item>China</item>
+
+    </string-array>
+
+</resources>

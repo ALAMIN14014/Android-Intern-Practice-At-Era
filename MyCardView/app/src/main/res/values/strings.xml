@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCardView</string>
+
+    <string name="school_text">School</string>
+    <string name="library_text">Library</string>
+    <string name="hospital_text">Hospital</string>
+    <string name="restaurent_text">Restaurent</string>
+
+
+</resources>

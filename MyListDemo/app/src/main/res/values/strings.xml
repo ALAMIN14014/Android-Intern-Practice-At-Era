@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyListDemo</string>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Peru</item>
+        <item>America</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>Pakistan</item>
+        <item>Pakistan</item>
+        <item>Pakistan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+
+
+    </string-array>
+</resources>

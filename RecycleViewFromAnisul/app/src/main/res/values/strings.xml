@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RecycleViewFromAnisul</string>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>America</item>
+        <item>Russia</item>
+        <item>China</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+        <item>Thailand</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string-array name="counrty_desc">
+
+        <item>Bangladesh is beautiful</item>
+        <item>India is beautiful</item>
+        <item>Pakistan is beautiful</item>
+        <item>America is beautiful</item>
+        <item>Russia is beautiful</item>
+        <item>China is beautiful</item>
+        <item>Bhutan is beautiful</item>
+        <item>Nepal is beautiful</item>
+        <item>Thailand is beautiful</item>
+        <item>Australia is beautiful</item>
+
+
+    </string-array>
+
+
+</resources>

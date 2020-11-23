@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="alamin_details">
+    \nName : AL AMIN
+        \nAge: 18
+        \nPhone : 01521212121
+
+    </string>
+
+    <string name="juma_details">
+    \nName : Juma
+        \nAge: 22
+        \nPhone : 01500012121
+
+    </string>
+
+
+</resources>

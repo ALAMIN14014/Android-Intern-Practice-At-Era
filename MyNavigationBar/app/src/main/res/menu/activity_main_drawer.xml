@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_notifications_24"
+            android:title="Notifications" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_baseline_people_24"
+            android:title="About us" />
+
+        <item
+            android:id="@+id/branch_slideshow"
+            android:icon="@drawable/ic_baseline_account_balance_24"
+            android:title="Branch Locations" />
+
+        <item
+            android:id="@+id/atm_slideshow"
+            android:icon="@drawable/ic_baseline_location_city_24"
+            android:title="ATM Locations" />
+
+        <item
+            android:id="@+id/term_slideshow"
+            android:icon="@drawable/term"
+            android:title="Terms and Conditions" />
+        <item
+            android:id="@+id/language_slideshow"
+            android:icon="@drawable/lang"
+            android:title="Language Settings" />
+
+        <item
+            android:id="@+id/contact_slideshow"
+            android:icon="@drawable/ic_baseline_call_24"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/logout_slideshow"
+            android:icon="@drawable/log1"
+            android:title="Logout Out" />
+
+
+    </group>
+
+</menu>
